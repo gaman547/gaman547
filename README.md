@@ -5,15 +5,12 @@
 </picture>
 
 
-# Hello, I'm Gabi
+# Hello World!, My name is Gabi
 <a href="https://www.linkedin.com/in/gaman547/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an enthusiastic and reliable engineer, equipped with a diverse and adaptable skill-set. I have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -29,8 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+💻 Tools
 
 ### Network
 <div>
