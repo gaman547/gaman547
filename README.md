@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
+</picture>
+
+
 # Hello, I'm Gabi
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
