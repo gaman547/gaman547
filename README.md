@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
-</picture>
-
-
 # Hello World!, My name is Gabi <a href="https://www.linkedin.com/in/gaman547/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an enthusiastic and reliable engineer, equipped with a diverse and adaptable skill-set. 
@@ -61,3 +54,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gaman547/gaman547/output/github-snake.svg" />
+</picture>
