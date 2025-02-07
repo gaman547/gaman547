@@ -7,8 +7,8 @@
 
 # Hello World!, My name is Gabi
 
-I am an enthusiastic and reliable engineer, equipped with a diverse and adaptable skill-set. I have a profound interest in technology and a dedication to solving complex problems.
-
+I am an enthusiastic and reliable engineer, equipped with a diverse and adaptable skill-set. 
+I have a profound interest in technology and a dedication to solving complex problems.
 <a href="https://www.linkedin.com/in/gaman547/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
