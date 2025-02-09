@@ -12,7 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Cybersecurity HomeLab Design and Setup        | <a href="https://github.com/gaman547/CyberSec-HomeLab/blob/main/README.md">CyberSec-HomeLab</a>|
+| SIEM Implementation and Log Analysis | SOC Automation Lab|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
